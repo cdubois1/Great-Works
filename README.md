@@ -1,2 +1,2 @@
 # Great-Works
-This repository is filled with the projects and programs written by Conrad Dubois over the course of his programming career.
+Please note many of these programs were written for school projects with specific guidelines. The final product may not be perfect or even entirely functional, as that was not the goal.
