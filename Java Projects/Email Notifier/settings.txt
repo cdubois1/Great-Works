@@ -1,0 +1,6 @@
+imap.gmx.com
+993
+repressedStudent@gmx.com
+cjd12345
+10
+true

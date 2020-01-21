@@ -1,0 +1,2 @@
+thisistheplaintextwithoutspaces
+itshouldworkwithmultiplelines
